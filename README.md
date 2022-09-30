@@ -38,7 +38,7 @@ Encrypted File & Bruteforce.py (Python 3+) Template
 Click to view website →
 After, open the decrypted word doc and paste your Python code at the bottom of the doc. Upload this as a single document.
 
-Python is an easy-to-learn scripting language that is often used in security research. If you want to learn more about Python to help you with this task, visit this Python resource.
+Python is an easy-to-learn scripting language that is often used in security research. If you want to learn more about Python to help you with this task, [visit this Python resource.](https://docs.python.org/3/library/resource.html)
 
 
 ---
