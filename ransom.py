@@ -25,7 +25,7 @@ def crack_password(password_list, obj):
                     print(" ")
                     print("[+] Performing password attack on",zip_file)
                     print(" ")
-                    print("[!] Valid Combinations Found: line =", idx)
+                    print("[!] Valid Combinations Found: line =", idx, "/" , cnt)
                     print(" |  Password:", word.decode())
                     return True
                 except:
