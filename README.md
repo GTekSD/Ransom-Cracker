@@ -2,7 +2,15 @@
     <img src="logo/ransom_logo.png" alt="Ransom Cacker logo">
 </p>
 
-<h3 align="center">RANSOM CRACKER</h3>
+<h3 align="center">RANSO-CRACKER</h3>
+
+
+<p align="center">
+  Decrypt Encrypted ZIPs
+  <br>
+  <br>
+</p>
+
 
 ---
 
