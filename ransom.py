@@ -37,7 +37,7 @@ def crack_password(password_list, obj):
 zip_file = input("Enter encrypted .zip file name:")
 
 # Replace password file with any other if password not found.
-password_list = input("(EX.'rockyou.txt')Passwd list:")
+password_list = input("(Passwds list:")
 
 # ZipFile object initialised
 obj = zipfile.ZipFile(zip_file)
@@ -48,5 +48,7 @@ cnt = len(list(open(password_list, "rb")))
 if crack_password(password_list, obj) == False:
     print(" ")
     print("[i] No Valid Passwords Found.")
-    print(" | There are total", cnt, "number of passwords combinations are not valid.")
+    print(" |  There are total", cnt, "number of passwords combinations are not valid.")
+    print("[+] _______________________________________________________________________")
+    print(" |  Try different wordlist from SecLists/Passwords !")
  
