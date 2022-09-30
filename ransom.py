@@ -50,5 +50,5 @@ if crack_password(password_list, obj) == False:
     print("[i] No Valid Passwords Found.")
     print(" |  There are total", cnt, "number of passwords combinations are not valid.")
     print("[+] _______________________________________________________________________")
-    print(" |  Try different wordlist from SecLists/Passwords !")
+    print("[!] Try different wordlist from SecLists/Passwords")
  
