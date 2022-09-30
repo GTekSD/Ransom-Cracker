@@ -32,14 +32,15 @@ Ransomware will often encrypt all files on a device, and sometimes give the decr
 
 #### Resource
 
-A foundational Python 3+ template has also been provided for you in the resource below. One potential implementation is described in the code comments.
+A foundational Python 3+ template has also been provided for you in the resource. One potential implementation is described in the code comments.
 
-Encrypted File & Bruteforce.py (Python 3+) Template
-Click to view website →
-After, open the decrypted word doc and paste your Python code at the bottom of the doc. Upload this as a single document.
+Encrypted File & Bruteforce.py (Python 3+) Template has also been provided for you in the resource.
+
+After, open the decrypted word doc and paste your Python code at the bottom of the doc. Upload this with Pull Request.
 
 Python is an easy-to-learn scripting language that is often used in security research. If you want to learn more about Python to help you with this task, [visit this Python resource.](https://docs.python.org/3/library/resource.html)
 
+NOTE: This script need python installed in Windows.
 
 ---
 
