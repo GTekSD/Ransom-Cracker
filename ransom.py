@@ -37,7 +37,7 @@ def crack_password(password_list, obj):
 zip_file = input("Enter encrypted .zip file name:")
 
 # Replace password file with any other if password not found.
-password_list = input("(Passwds list:")
+password_list = input("Passwds list:")
 
 # ZipFile object initialised
 obj = zipfile.ZipFile(zip_file)
