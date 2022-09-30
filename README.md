@@ -30,3 +30,9 @@ A brute force method is a method where a set of predefined values are used to cr
 - [rockyou.txt](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt)
 
 - [SecLists/Passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords)
+
+---
+
+### Screenshots
+
+![Screenshot-1](Screenshots/Screenshot-1.png?raw=true)
