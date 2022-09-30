@@ -4,13 +4,7 @@
 
 <h3 align="center">RANSOM CRACKER</h3>
 
-<p align="center">
-  Decrypt Encrypted Files
-  <br>
-  <br>
-  <a href="https://wpscan.com/" title="homepage" target="_blank">WPScan WordPress Vulnerability Database</a> - <a href="https://wordpress.org/plugins/wpscan/" title="wordpress security plugin" target="_blank">WordPress Security Plugin</a>
-</p>
-
+---
 
 # Ransom-Cracker
 
@@ -21,7 +15,9 @@ The ZIP file format is a common archive and compression standard. It is used to 
 How to Brute Force ZIP File Passwords in Python?
 A brute force method is a method where a set of predefined values are used to crack a password until successful. This is basically a “hit and try” method. This method might take a long time if the set of values are high, but its success rate is high. The more the number of values, the greater the chances of cracking passwords. Here we’ll be using “rockyou” text file of size 133 MB with over 14 million sets of passwords to try.
 
-## Download wordlists
+---
+
+### Download wordlists
 
 - [rockyou.txt](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt)
 
