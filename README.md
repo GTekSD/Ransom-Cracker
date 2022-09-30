@@ -35,4 +35,4 @@ A brute force method is a method where a set of predefined values are used to cr
 
 ### Screenshots
 
-![Screenshot-1](Screenshots/Screenshot-1.png?raw=true)
+![Screenshot-1](Screenshot/Screenshot-1.png?raw=true)
