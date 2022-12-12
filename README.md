@@ -55,3 +55,5 @@ NOTE: This script need python installed in Windows.
 ### Screenshots
 
 ![Screenshot-1](Screenshot/Screenshot-1.png?raw=true)
+
+![Screenshot-2](Screenshot/Screenshot-2.png?raw=true)
